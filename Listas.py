@@ -14,5 +14,5 @@ print(lst4[1])
 
 #Acessar o primeiro elemento
 print(lst[0])
-#Numero de elementos em uma lista  >>>>  len(lst)
+#Numero de elementos em uma lista
 print(len(lst))
